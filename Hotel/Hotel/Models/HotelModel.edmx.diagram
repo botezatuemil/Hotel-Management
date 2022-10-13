@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3209c27f0c81435085fe9ccfb9943e73" Name="Diagram1">
+        <EntityTypeShape EntityType="HotelModel.Booking" Width="1.5" PointX="5.25" PointY="2.625" />
+        <EntityTypeShape EntityType="HotelModel.Booking_State" Width="1.5" PointX="3" PointY="0.75" />
+        <EntityTypeShape EntityType="HotelModel.Feature" Width="1.5" PointX="5.25" PointY="6.625" />
+        <EntityTypeShape EntityType="HotelModel.Offer" Width="1.5" PointX="7.75" PointY="2.125" />
+        <EntityTypeShape EntityType="HotelModel.Picture" Width="1.5" PointX="5.25" PointY="9" />
+        <EntityTypeShape EntityType="HotelModel.Receipt" Width="1.5" PointX="10" PointY="5" />
+        <EntityTypeShape EntityType="HotelModel.Role" Width="1.5" PointX="0.75" PointY="8.25" />
+        <EntityTypeShape EntityType="HotelModel.Room" Width="1.5" PointX="3" PointY="3.875" />
+        <EntityTypeShape EntityType="HotelModel.Room_Type" Width="1.5" PointX="0.75" PointY="4.25" />
+        <EntityTypeShape EntityType="HotelModel.Service" Width="1.5" PointX="12.25" PointY="3.625" />
+        <EntityTypeShape EntityType="HotelModel.User" Width="1.5" PointX="3" PointY="7.875" />
+        <AssociationConnector Association="HotelModel.FK__Booking__room_nu__71D1E811" />
+        <AssociationConnector Association="HotelModel.FK__Booking__state__73BA3083" />
+        <AssociationConnector Association="HotelModel.FK__Booking__usernam__72C60C4A" />
+        <AssociationConnector Association="HotelModel.FK__User__role__25869641" />
+        <AssociationConnector Association="HotelModel.User_fk0" />
+        <AssociationConnector Association="HotelModel.FK__Room__type__2A4B4B5E" />
+        <AssociationConnector Association="HotelModel.Offer_Service" />
+        <AssociationConnector Association="HotelModel.Receipt_Offer" />
+        <AssociationConnector Association="HotelModel.Receipt_Service" />
+        <AssociationConnector Association="HotelModel.Room_Feature" />
+        <AssociationConnector Association="HotelModel.Room_Picture" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

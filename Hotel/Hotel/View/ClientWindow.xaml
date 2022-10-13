@@ -1,0 +1,143 @@
+﻿<Window x:Class="Hotel.View.ClientWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hotel.View"
+        
+        xmlns:viewmodels="clr-namespace:Hotel.ViewModel"
+        mc:Ignorable="d"
+        Title="ClientWindow" Height="450" Width="800">
+
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="booleanConverter"/>
+    </Window.Resources>
+    <Window.DataContext>
+        <viewmodels:ClientViewModel/>
+    </Window.DataContext>
+
+    <Grid>
+        
+        <TabControl Margin="0,0,0,0">
+           
+            <TabItem Width="100" Height="30" Header="Available Rooms">
+                <StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                    <DatePicker Height="25" Width="100" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="40, 20" SelectedDate="{Binding CheckIn}"/>
+                    <DatePicker Height="25" Width="100" VerticalAlignment="Top"  HorizontalAlignment="Left" Margin="0, 20" SelectedDate="{Binding CheckOut}"/>
+                    <Button Background="AliceBlue" Height="25" Width="100" VerticalAlignment="Top"  HorizontalAlignment="Left" Margin="40, 20" Content="Search" Command="{Binding SearchRooms}"/>
+                    </StackPanel>
+
+                    <ListBox Height="320" SelectedIndex="{Binding Index}" SelectedItem="{Binding RoomNr}" BorderThickness="2" Grid.Row="2" x:Name="listBox"  Margin="40,10,40,0"  AllowDrop="True" ScrollViewer.VerticalScrollBarVisibility="Visible" Background="Beige" ItemsSource="{Binding Rooms}">
+                        <ListBox.ItemTemplate >
+                            <DataTemplate>
+                                <Grid >
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition></ColumnDefinition>
+                                        <ColumnDefinition></ColumnDefinition>
+                                    </Grid.ColumnDefinitions>
+                                    <StackPanel Orientation="Horizontal" Grid.Column="0"  >
+
+                                        <Image Margin="3" Width="200" Height="100" Source="{Binding image}"/>
+
+                                        <TextBlock Margin="3" Text="Tip camera:" FontSize="20"/>
+                                        <TextBlock Margin="3" Text="{Binding type}" FontSize="20"/>
+
+
+                                    </StackPanel >
+                                    <Grid Grid.Column="1"  Margin="220, 0, 0, 0" >
+                                        <StackPanel Orientation="Vertical">
+                                            <StackPanel Orientation="Horizontal" Grid.Row="1" VerticalAlignment="Top"  >
+                                                <TextBlock  Text="Pret: " FontSize="20"></TextBlock>
+                                                <TextBlock Margin="0, 0, 30,0"  Text="{Binding price}" FontSize="20"></TextBlock>
+
+                                            </StackPanel>
+                                            <Button Content="Rezerva" Margin="0, 50, 0, 0" Padding="4" Background="#ffd77b" 
+                                        Command="{Binding DataContext.BookCommand, RelativeSource={RelativeSource AncestorType=ListBox}}" 
+                                       Visibility="{Binding DataContext.IsButtonReservedVisible, RelativeSource={RelativeSource AncestorType=ListBox}, 
+                                    Converter={StaticResource booleanConverter}}"
+                                        />
+
+                                            <Button Content="Administreaza" Margin="0, 30, 0, 0" Padding="4" Background="#ffd77b" 
+                                        Command="{Binding DataContext.AdminCommand, RelativeSource={RelativeSource AncestorType=ListBox}}"
+                                        Visibility="{Binding DataContext.IsButtonAdminVisible, RelativeSource={RelativeSource AncestorType=ListBox}, 
+                                    Converter={StaticResource booleanConverter}}"
+                                        />
+                                        </StackPanel>
+
+                                    </Grid>
+
+                                </Grid>
+
+
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+
+                </StackPanel>
+            </TabItem>
+            <TabItem Width="100" Height="30" Header="Offers">
+                <ListBox Height="320" SelectedIndex="{Binding IndexOffer}" SelectedItem="{Binding SelectedOffer}" BorderThickness="2" Grid.Row="2"  Margin="40,10,40,0"  AllowDrop="True" ScrollViewer.VerticalScrollBarVisibility="Visible" Background="Beige" ItemsSource="{Binding Offers}">
+                    <ListBox.ItemTemplate >
+                        <DataTemplate>
+                            <Grid >
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition></ColumnDefinition>
+                                    <ColumnDefinition></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <StackPanel Orientation="Vertical" Grid.Column="0"  >
+
+
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock Margin="3" Text="Nume:" FontSize="15"/>
+                                        <TextBlock Margin="3" Text="{Binding name}" FontSize="15"/>
+                                    </StackPanel>
+
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock Margin="3" Text="Description:" FontSize="15"/>
+                                        <TextBlock Margin="3" Text="{Binding description}" FontSize="15"/>
+                                    </StackPanel>
+
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock Margin="3" Text="Start date:" FontSize="12"/>
+                                        <TextBlock Margin="3" Text="{Binding start_date.Date}" FontSize="12"/>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock Margin="3" Text="End date:" FontSize="12"/>
+                                        <TextBlock Margin="3" Text="{Binding end_date.Date}" FontSize="12"/>
+                                    </StackPanel>
+                                </StackPanel >
+                                <Grid Grid.Column="1"  Margin="220, 0, 0, 0" >
+                                    <StackPanel Orientation="Vertical">
+                                        <StackPanel Orientation="Horizontal" Grid.Row="1" VerticalAlignment="Top"  >
+                                            <TextBlock  Text="Pret: " FontSize="20"></TextBlock>
+                                            <TextBlock Margin="0, 0, 30,0"  Text="{Binding price}" FontSize="20"></TextBlock>
+
+                                        </StackPanel>
+                                        <Button Content="Ia Oferta" Margin="0, 50, 0, 0" Padding="4" Background="#ffd77b" 
+                                        Command="{Binding DataContext.OfferCommand, RelativeSource={RelativeSource AncestorType=ListBox}}" 
+                                       Visibility="{Binding DataContext.IsButtonReservedVisible, RelativeSource={RelativeSource AncestorType=ListBox}, 
+                                    Converter={StaticResource booleanConverter}}"
+                                        />
+
+                                        <Button Content="Administreaza" Margin="0, 30, 0, 0" Padding="4" Background="#ffd77b" 
+                                        Command="{Binding DataContext.AdminOfferCommand, RelativeSource={RelativeSource AncestorType=ListBox}}"
+                                        Visibility="{Binding DataContext.IsButtonAdminVisible, RelativeSource={RelativeSource AncestorType=ListBox}, 
+                                    Converter={StaticResource booleanConverter}}"
+                                        />
+                                    </StackPanel>
+
+                                </Grid>
+
+                            </Grid>
+
+
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </TabItem>
+        </TabControl>
+        
+
+    </Grid>
+</Window>

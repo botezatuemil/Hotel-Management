@@ -1,0 +1,127 @@
+C:\Personal Stuff\Facultate\MVP\FinalProject\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Personal Stuff\Facultate\MVP\FinalProject\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Personal Stuff\Facultate\MVP\FinalProject\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Personal Stuff\Facultate\MVP\FinalProject\Hotel\Hotel\bin\Debug\EntityFramework.dll
+C:\Personal Stuff\Facultate\MVP\FinalProject\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Personal Stuff\Facultate\MVP\FinalProject\Hotel\Hotel\bin\Debug\System.Web.Providers.dll
+C:\Personal Stuff\Facultate\MVP\FinalProject\Hotel\Hotel\bin\Debug\EntityFramework.xml
+C:\Personal Stuff\Facultate\MVP\FinalProject\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Personal Stuff\Facultate\MVP\FinalProject\Hotel\Hotel\bin\Debug\System.Web.Providers.xml
+C:\Personal Stuff\Facultate\MVP\FinalProject\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+C:\Personal Stuff\Facultate\MVP\FinalProject\Hotel\Hotel\obj\Debug\MainWindow.g.cs
+C:\Personal Stuff\Facultate\MVP\FinalProject\Hotel\Hotel\obj\Debug\App.g.cs
+C:\Personal Stuff\Facultate\MVP\FinalProject\Hotel\Hotel\obj\Debug\Hotel_Content.g.cs
+C:\Personal Stuff\Facultate\MVP\FinalProject\Hotel\Hotel\obj\Debug\Hotel_MarkupCompile.cache
+C:\Personal Stuff\Facultate\MVP\FinalProject\Hotel\Hotel\obj\Debug\Hotel_MarkupCompile.lref
+C:\Personal Stuff\Facultate\MVP\FinalProject\Hotel\Hotel\obj\Debug\MainWindow.baml
+C:\Personal Stuff\Facultate\MVP\FinalProject\Hotel\Hotel\obj\Debug\Hotel.g.resources
+C:\Personal Stuff\Facultate\MVP\FinalProject\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Personal Stuff\Facultate\MVP\FinalProject\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+C:\Personal Stuff\Facultate\MVP\FinalProject\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Personal Stuff\Facultate\MVP\FinalProject\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+C:\Personal Stuff\Facultate\MVP\FinalProject\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Personal Stuff\Facultate\MVP\FinalProject\Hotel\Hotel\obj\Debug\Hotel.pdb
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\bin\Debug\EntityFramework.dll
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\bin\Debug\System.Web.Providers.dll
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\bin\Debug\EntityFramework.xml
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\bin\Debug\System.Web.Providers.xml
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\obj\Debug\App.g.cs
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel_Content.g.cs
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel_MarkupCompile.cache
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel_MarkupCompile.lref
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel.g.resources
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel.pdb
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\bin\Debug\EntityFramework.dll
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\bin\Debug\System.Web.Providers.dll
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\bin\Debug\EntityFramework.xml
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\bin\Debug\System.Web.Providers.xml
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\App.g.cs
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel_Content.g.cs
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel_MarkupCompile.cache
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel_MarkupCompile.lref
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel.g.resources
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel.pdb
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\View\GuestWindow.g.cs
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\View\LoginWindow.g.cs
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\View\MainWindow.g.cs
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\View\RegisterWindow.g.cs
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\View\GuestWindow.baml
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\View\LoginWindow.baml
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\View\MainWindow.baml
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\View\RegisterWindow.baml
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\bin\Debug\EntityFramework.dll
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\bin\Debug\System.Web.Providers.dll
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\bin\Debug\EntityFramework.xml
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\bin\Debug\System.Web.Providers.xml
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\View\LoginWindow.g.cs
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\View\MainWindow.g.cs
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\View\RegisterWindow.g.cs
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\App.g.cs
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel_Content.g.cs
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel_MarkupCompile.cache
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel_MarkupCompile.lref
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\View\LoginWindow.baml
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\View\MainWindow.baml
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\View\RegisterWindow.baml
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel.g.resources
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\Hotel.pdb
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\View\ClientWindow.g.cs
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\View\ClientWindow.baml
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\obj\Debug\View\ClientWindow.g.cs
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\obj\Debug\View\GuestWindow.g.cs
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\obj\Debug\View\LoginWindow.g.cs
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\obj\Debug\View\MainWindow.g.cs
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\obj\Debug\View\RegisterWindow.g.cs
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\obj\Debug\View\ClientWindow.baml
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\obj\Debug\View\GuestWindow.baml
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\obj\Debug\View\LoginWindow.baml
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\obj\Debug\View\MainWindow.baml
+C:\Personal Stuff\Facultate\MVP\FinalProject\HotelFinalProject\Hotel\Hotel\obj\Debug\View\RegisterWindow.baml
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\View\ClientWindow.g.cs
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\View\ClientWindow.baml
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\View\DetailsWindow.g.cs
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\View\DetailsWindow.baml
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\View\DetailsWindow.g.cs
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\View\DetailsWindow.baml
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\View\AdminWindow.g.cs
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\View\AdminWindow.baml
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\View\AdminWindow.g.cs
+C:\Users\LeonardBejgu\Documents\GithubMixconix\HotelFinalProject\Hotel\Hotel\obj\Debug\View\AdminWindow.baml
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\View\OfferWindow.g.cs
+C:\Users\EmilBotezatu\Work\Facultate\MVP\HotelFinalProject\Hotel\Hotel\obj\Debug\View\OfferWindow.baml

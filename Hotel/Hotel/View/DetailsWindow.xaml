@@ -1,0 +1,91 @@
+﻿<Window x:Class="Hotel.View.DetailsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+           
+        mc:Ignorable="d"
+        Title="DetailsWindow" Height="450" Width="800">
+    <Grid>
+        <Grid>
+
+            <Button Margin="30,0,0,15" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="100" Height="30" Command="{Binding TestCommand}" >Rezerva</Button>
+            <TextBox Margin="250,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Center" Width="200" Height="100" IsReadOnly="True" TextWrapping="WrapWithOverflow"  FontSize="20" Text="{Binding FinalPrice}"/>
+            <StackPanel  Margin="20 50 0  0" Orientation="Vertical" Width="200" HorizontalAlignment="Left" Height="150"  VerticalAlignment="Top" >
+                <ListBox x:Name="listBoxSignUp" Grid.Row="2" Width="200" Height="150" HorizontalAlignment="Left" Margin="0,0,0,0" FontSize="20" Background="Transparent"  Foreground="Black" BorderBrush="White"  ItemsSource="{Binding Features}">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding name}"/>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+
+                </ListBox>
+
+            </StackPanel>
+
+
+
+            <StackPanel  Margin="20 100 0  0" Orientation="Vertical" Width="200" HorizontalAlignment="Left" Height="100">
+
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Left">
+                    <CheckBox
+                      x:Name="allInclusiveCheckBox"
+                      IsChecked="{Binding AllInclusiveBool}" VerticalAlignment="Center" HorizontalAlignment="Left" Content="{Binding AllInclusiveLabel}">
+
+                    </CheckBox>
+                    <Label Content="{Binding AllInclusivePrice}" ></Label>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Left">
+                    <CheckBox
+                      x:Name="allInclusiveCheckBox1"
+                      IsChecked="{Binding BarbequeBool}" VerticalAlignment="Center" HorizontalAlignment="Left" Content="{Binding BarbequeLabel}">
+
+                    </CheckBox>
+                    <Label Content="{Binding BarbequePrice}" ></Label>
+                </StackPanel>
+
+
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Left">
+                    <CheckBox
+                      x:Name="allInclusiveCheckBox2"
+                      IsChecked="{Binding BreakfastBool}" VerticalAlignment="Center" HorizontalAlignment="Left" Content="{Binding BreakfastLabel}">
+
+                    </CheckBox>
+                    <Label Content="{Binding BreakfastPrice}" ></Label>
+                </StackPanel>
+
+
+
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Left">
+                    <CheckBox
+                      x:Name="allInclusiveCheckBox3"
+                      IsChecked="{Binding TransportBool}" VerticalAlignment="Center" HorizontalAlignment="Left" Content="{Binding TransportLabel}">
+
+                    </CheckBox>
+                    <Label Content="{Binding TransportPrice}" ></Label>
+                </StackPanel>
+
+
+            </StackPanel>
+
+            <Button Content="Back" Width="100" Height="20" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="30" Command="{Binding BackCommand}"></Button>
+
+            <Image x:Name="imageSignUp" Grid.Row="2" Source="{Binding ImageSource}" HorizontalAlignment="Right" Margin="0,0,100,50" Height="250" Width="250" VerticalAlignment="Bottom" Grid.Column="1"/>
+
+            <Button Grid.Row="2" HorizontalAlignment="Right" VerticalAlignment="Bottom" Content="Next" Width="70" FontSize="20"   Margin="0,0,110,15" Command="{Binding NextCommand}" Grid.Column="1"/>
+            <Button Grid.Row="2" Content="Previous" FontSize="20" HorizontalAlignment="Right" VerticalAlignment="Bottom" VerticalContentAlignment="Top"  Margin="0,0,250,15" RenderTransformOrigin="0.5,0.5" Command="{Binding PreviousCommand}" Grid.Column="1">
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Button.RenderTransform>
+            </Button>
+
+        </Grid>
+    </Grid>
+
+</Window>
